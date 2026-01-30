@@ -6,6 +6,7 @@ const projectDetails = {
     title: "E-Commerce Modern",
     desc: "Platform e-commerce dengan desain modern, integrasi pembayaran, dan dashboard admin.",
     tech: ["Next.js", "Tailwind", "Tripay API", "MongoDB"],
+    link: "e-commerce.rfkhrmwn.com",
   },
   "bot-wa": {
     title: "Bot WhatsApp Otomatis",
@@ -16,6 +17,7 @@ const projectDetails = {
     title: "Aplikasi Absensi QR",
     desc: "Aplikasi absensi berbasis web dengan sistem QR Scan dan laporan real-time.",
     tech: ["Vue", "supabase", "Tailwind", "QR Code API"],
+    link: "absen.ikmi.tech",
   },
 };
 
